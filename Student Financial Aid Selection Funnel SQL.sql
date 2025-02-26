@@ -1,4 +1,5 @@
 Explanation:
+Database used: Teradata Studio	
 This SQL code is extracting data from multiple tables and will be exported as one file and uploaded into an excel database sheet I created. 
 The excel sheet will autopopulate based on the extracted data and create aggregated stats, where you can also filter the data. 
 Data is looking at a specific population of student customers to understand customer behavior- students imported, imported date, refund selection choice/preference, and financial aid disbursements
